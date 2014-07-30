@@ -2,7 +2,7 @@ ProyDesWeb
 ==========
 
 Repository para el proyecto de materia Desarrollo web
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="es">
 <head>
      <meta charset = "utf-8">
